@@ -11,10 +11,13 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>
+    <div className="bg-black">
     
     <Banner/>
+    <div style={{marginTop:'-100px'}}>
+
     <FunFact/>
+    </div>
     <ServicesSection/>
     <PortfolioSlider/>
     <AwardsSlider/>

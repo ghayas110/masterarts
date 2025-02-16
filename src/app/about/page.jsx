@@ -11,7 +11,7 @@ const About = () => {
       <Banner title="About Us"/>
       <AboutSection/>
       <ImageSection/>
-      <div className=" mt-44 bg-black">
+      <div className=" bg-black">
 
       <FunFact/>
       </div>
