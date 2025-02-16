@@ -74,7 +74,7 @@ export default function PortfolioSlider() {
               {activeIndex === index && (
                 <div className="absolute bottom-0 left-0 mr-12 flex items-center">
                   <div
-                    className={`absolute left-0 top-0 w-full h-60 rounded-tl-full rounded-tr-full ${project.circleColor} p-10 opacity-90`}
+                    className={`absolute left-0 top-0 w-full h-60 rounded-tl-full rounded-tr-full xl:${project.circleColor} md:bg-transparent p-10 opacity-90`}
                   ></div>
                   <div className="relative z-10 text-white ml-3 p-10">
                     <h3 className="text-xl md:text-2xl font-bold">{project.title}</h3>
