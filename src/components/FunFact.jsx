@@ -2,9 +2,9 @@ import React from "react";
 
 export default function FunFact() {
   return (
-    <div className="relative w-full flex justify-center items-center mt-[-100px]">
+    <div className="relative w-full flex justify-center items-center mt-[-100px] bg-black">
       {/* Fun Fact Box */}
-      <div className="bg-black/80 backdrop-blur-md text-white rounded-xl px-10 py-8 md:px-14 md:py-12 w-[90%] max-w-6xl shadow-lg flex flex-col md:flex-row items-center md:items-start justify-between">
+      <div className="bg-gray-900 backdrop-blur-md text-white rounded-xl px-10 py-8 md:px-14 md:py-12 w-[90%] max-w-6xl shadow-lg flex flex-col md:flex-row items-center md:items-start justify-between">
         
         {/* Left Section - Title & Description */}
         <div className="md:w-1/2">

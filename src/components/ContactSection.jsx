@@ -29,7 +29,7 @@ export default function ContactForm() {
   };
 
   return (
-    <section className="w-full  text-white px-6 md:px-16 py-16">
+    <section className="w-full  text-white px-6 md:px-16 py-16 bg-black">
       <div className="max-w-6xl mx-auto flex flex-col lg:flex-row items-start gap-12">
         {/* Left Side - Contact Info */}
         <div className="lg:w-1/3">

@@ -3,9 +3,9 @@ import Link from "next/link";
 
 export default function Banner() {
   return (
-    <div className="relative h-screen w-full overflow-hidden bg-transparent text-white flex items-center px-6 md:px-16">
+    <div className="relative h-screen bg-black w-full overflow-hidden bg-transparent text-white flex items-center px-6 md:px-16" style={{backgroundColor:'black'}}>
       {/* Background Image */}
-      <div className="absolute inset-0 -z-10">
+      <div className="absolute inset-0 ">
         <Image 
           src="https://masterarts.co/wp-content/uploads/2025/01/BG-Transparent-WEBP-01-scaled.avif"
           alt="Background"
@@ -18,14 +18,14 @@ export default function Banner() {
       {/* Main Content */}
       <div className="flex flex-col w-full items-start justify-center">
         {/* Heading Section */}
-        <div className="max-w-6xl">
-          <h2 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-extrabold leading-tight">
+        <div className="max-w-6xl z-50">
+          <h2 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-extrabold leading-tight ">
             Minting Viral <br /> Graphic Designs
           </h2>
         </div>
 
         {/* Description & CTA Section */}
-        <div className="flex flex-col md:flex-row items-start md:items-center justify-between space-y-6 sm:space-y-0 sm:space-x-4 mt-6 w-full">
+        <div className="flex flex-col md:flex-row items-start md:items-center justify-between space-y-6 sm:space-y-0 sm:space-x-4 mt-6 w-full z-50">
           <Link href="#" className="px-6 py-3 text-lg sm:text-xl md:text-2xl text-white font-semibold rounded-full hover:bg-white hover:text-black transition-all">
             Get a Quote →
           </Link>

@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function ImageSection() {
   return (
-    <section className="w-full flex justify-center items-center py-10">
+    <section className="w-full bg-black flex justify-center items-center py-10">
       <div className="max-w-6xl w-full flex gap-6">
         {/* Left Image (Colored) */}
         <div className="flex-1 rounded-xl overflow-hidden">

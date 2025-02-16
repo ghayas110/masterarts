@@ -36,7 +36,7 @@ export default function Header() {
 
   return (
     <header
-      className={`fixed top-0 left-0 w-full flex items-center p-6 transition-all duration-300 z-50 ${
+      className={`fixed top-0 left-0 w-full flex items-center p-6 transition-all duration-300 text-white z-50 ${
         isVisible ? "translate-y-0" : "-translate-y-full"
       } ${hasScrolled ? "bg-black shadow-lg" : "bg-transparent"}`}
     >
