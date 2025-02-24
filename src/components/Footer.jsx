@@ -25,21 +25,21 @@ export default function Footer() {
         {/* Logo & Description */}
         <div className="mb-6 md:mb-0">
           <Image
-          src="https://masterarts.co/wp-content/uploads/2024/04/Logo_Header-08.svg"
-          alt="Master Arts Logo"
+          src="/logo.webp"
+          alt="Loading Logo Logo"
             width={180}
             height={50}
           />
           <p className="text-gray-400 mt-2">
-            Welcome to Master Arts, we believe in designing imaginations.
+            Welcome to Loading Logo, we believe in designing imaginations.
           </p>
         </div>
 
         {/* Contact Section */}
         <div className="mb-6 md:mb-0">
           <h3 className="font-semibold text-lg">Contact Us</h3>
-          <p className="text-gray-400">Telegram - @elegantmaster</p>
-          <p className="text-gray-400">themaster@masterarts.co</p>
+          <p className="text-gray-400">Telegram - @loadinglogo</p>
+          <p className="text-gray-400">themaster@loadinglogo.co</p>
         </div>
 
         {/* Follow Us & Email Subscription */}
@@ -60,7 +60,7 @@ export default function Footer() {
 
       {/* Copyright */}
       <div className="mt-12 text-center text-gray-500 text-sm">
-        Copyright © 2024 Master Arts.
+        Copyright © 2024 Loading Logo.
       </div>
     </footer>
   );

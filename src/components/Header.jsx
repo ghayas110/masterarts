@@ -43,9 +43,9 @@ export default function Header() {
       {/* Logo */}
       <Link href="/" className="flex items-center">
         <Image
-          src="https://masterarts.co/wp-content/uploads/2024/04/Logo_Header-08.svg"
-          alt="Master Arts Logo"
-          width={400}
+          src="/logo.webp"
+          alt="Loading Logo Logo"
+          width={200}
           height={50}
           className="cursor-pointer"
         />

@@ -30,7 +30,7 @@ export default function Banner() {
             Get a Quote →
           </Link>
           <p className="max-w-2xl text-sm sm:text-base md:text-lg lg:text-xl text-white">
-            Step into the world of Master Arts where we mint viral crypto branding that
+            Step into the world of Loading Logo where we mint viral crypto branding that
             sets your project apart in the digital landscape because here, innovation meets imagination!
           </p>
         </div>

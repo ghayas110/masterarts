@@ -32,7 +32,7 @@ export default function AboutSection2() {
             Your Crypto <br /> Branding Master
           </h2>
           <p className="mt-4 text-gray-400 text-lg leading-relaxed">
-            At Master Arts, we're not just designers; we're partners committed 
+            At Loading Logo, we're not just designers; we're partners committed 
             to your success. With expertise in cryptocurrency branding and a 
             proven track record of delivering outstanding results, we're here 
             to bring your vision to life.
@@ -40,7 +40,7 @@ export default function AboutSection2() {
           <p className="mt-4 text-gray-400 text-lg leading-relaxed">
             Whether you're seeking stunning graphics, captivating animations, 
             or comprehensive branding solutions, we have the expertise and 
-            ingenuity to elevate your brand. Trust Master Arts to be your 
+            ingenuity to elevate your brand. Trust Loading Logo to be your 
             creative ally in the ever-evolving world of blockchain.
           </p>
 

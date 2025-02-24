@@ -14,7 +14,7 @@ export default function AboutSection() {
             Your Trusted Brand <br /> in the CryptoVerse
           </h2>
           <p className="mt-4 text-gray-400 text-lg leading-relaxed">
-            At Master Arts, we're passionate about leveraging the power of
+            At Loading Logo, we're passionate about leveraging the power of
             creativity to elevate projects within the dynamic world of
             cryptocurrency. With a team of skilled designers and animators, we
             specialize in crafting visually captivating solutions tailored

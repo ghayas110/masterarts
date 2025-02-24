@@ -39,7 +39,7 @@ export default function ContactForm() {
           </h2>
           <div className="mt-6 space-y-4">
             <p className="flex items-center gap-2">📞 Telegram - <span className="text-cyan-400">@elegantmaster</span></p>
-            <p className="flex items-center gap-2">✉️ Email - <span className="text-cyan-400">themaster@masterarts.co</span></p>
+            <p className="flex items-center gap-2">✉️ Email - <span className="text-cyan-400">themaster@gmail.co</span></p>
             <p className="flex items-center gap-2">📍 Location - <span className="text-cyan-400">Adelaide 5000, Australia</span></p>
           </div>
         </div>

@@ -12,7 +12,7 @@ const testimonials = [
   {
     company: "Byte AI",
     logo: "/byte-logo.avif",
-    text: "Byte AI News hit the jackpot with Master Arts! Their custom mascot and GIFs are pure gold. The robot mascot embodies our brand's vibe, charming our audience instantly. The GIFs, from welcome to purchase, are seamless and engaging. Huge thumbs up!",
+    text: "Byte AI News hit the jackpot with Loading Logo! Their custom mascot and GIFs are pure gold. The robot mascot embodies our brand's vibe, charming our audience instantly. The GIFs, from welcome to purchase, are seamless and engaging. Huge thumbs up!",
     rating: 5,
     author: "Enrico",
     role: "CMO at Byte AI",
@@ -20,7 +20,7 @@ const testimonials = [
   {
     company: "Piena Finance",
     logo: "/piena-logo.avif",
-    text: "Piena Finance has never looked better! The branding work done by Master Arts transformed our entire customer experience. The animations and visual assets provided have elevated our presence in the financial sector. Highly recommended!",
+    text: "Piena Finance has never looked better! The branding work done by Loading Logo transformed our entire customer experience. The animations and visual assets provided have elevated our presence in the financial sector. Highly recommended!",
     rating: 5,
     author: "Sophia",
     role: "Head of Design at Piena",
@@ -28,7 +28,7 @@ const testimonials = [
   {
     company: "OXO AI",
     logo: "/oxo-logo.avif",
-    text: "We entrusted Master Arts with our rebranding, and they exceeded expectations. The graphics and mascots they created are simply outstanding, and the engagement on our platforms has skyrocketed. A truly exceptional experience!",
+    text: "We entrusted Loading Logo with our rebranding, and they exceeded expectations. The graphics and mascots they created are simply outstanding, and the engagement on our platforms has skyrocketed. A truly exceptional experience!",
     rating: 5,
     author: "Liam",
     role: "CEO at OXO AI",

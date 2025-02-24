@@ -20,7 +20,7 @@ export default function Banner({ title}) {
       <div className="relative z-10 text-center">
         <h1 className="text-4xl md:text-5xl font-bold">{title}</h1>
         <p className="mt-2 text-gray-400">
-          <span className="text-white">MASTER ARTS</span> &gt; {title}
+          <span className="text-white">Loading Logo</span> &gt; {title}
         </p>
       </div>
     </section>
