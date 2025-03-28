@@ -57,6 +57,8 @@ export default function Header() {
         <Link href="/about" className="hover:text-cyan-400 font-bold text-xl">About</Link>
         <Link href="/services" className="hover:text-cyan-400 font-bold text-xl">Services</Link>
         <Link href="/portfolio" className="hover:text-cyan-400 font-bold text-xl">Portfolio</Link>
+        <Link href="/blog" className="hover:text-cyan-400 font-bold text-xl">Blog</Link>
+        <Link href = "/projects" className="hover:text-cyan-400 font-bold text-xl">Projects</Link>
         <Link href="/contact" className="hover:text-cyan-400 font-bold text-xl">Contact</Link>
       </nav>
 
@@ -73,6 +75,7 @@ export default function Header() {
           <Link href="/services" className="hover:text-cyan-400 font-medium" onClick={() => setIsOpen(false)}>Services</Link>
           <Link href="/portfolio" className="hover:text-cyan-400 font-medium" onClick={() => setIsOpen(false)}>Portfolio</Link>
           <Link href="/contact" className="hover:text-cyan-400 font-medium" onClick={() => setIsOpen(false)}>Contact</Link>
+          <Link href="/blog" className="hover:text-cyan-400 font-medium" onClick={() => setIsOpen(false)}>Blog</Link>
         </div>
       )}
     </header>
