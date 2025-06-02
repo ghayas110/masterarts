@@ -47,8 +47,7 @@ export default function Header() {
           alt="Loading Logo Logo"
           width={200}
           height={50}
-          className="cursor-pointer"
-        />
+          className="cursor-pointer"/>
       </Link>
 
       {/* Desktop Navigation */}
